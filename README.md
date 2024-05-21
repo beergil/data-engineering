@@ -1,1 +1,1 @@
-# Python, Bash, and SQL Essentials for Data Engineering
+# Python, Bash, and SQL Essentials for Data Engineering Specialization
