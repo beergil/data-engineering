@@ -1,1 +1,1 @@
-# background-generator
+# Python, Bash, and SQL Essentials for Data Engineering
