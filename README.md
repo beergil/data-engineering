@@ -1,1 +1,1 @@
-# Python, Bash, and SQL Essentials for Data Engineering Specialization
+Data Engineering Specialization by Duke University
